@@ -1,3 +1,6 @@
+import 'bootstrap';
+import '../scss/index.scss';
+
 (function q() {
 	const age = '12';
 	return age;
